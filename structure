@@ -1,0 +1,7 @@
+/repo_root
+│── main.py                   # Main script to execute the pipeline
+│── preprocessing.py           # Loads & structures data from JSON & HTML
+│── analysis.py                # Performs sentiment, topic modeling & flow analysis
+│── utils.py                   # Helper functions for role detection, timestamp extraction, etc.
+│── requirements.txt           # Dependencies
+│── README.md                  # Documentation
